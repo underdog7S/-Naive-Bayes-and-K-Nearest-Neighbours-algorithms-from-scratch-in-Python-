@@ -1,4 +1,7 @@
 # -Naive-Bayes-and-K-Nearest-Neighbours-algorithms-from-scratch-in-Python-
+Upload: This file (shadab_Nb_KNNpython.ipynb) at GOOGLE COLAB
+& also download csv file (test.csv, train.csv)
+
 Implement the Naive Bayes and K-Nearest Neighbours algorithms from scratch in Python using Numpy and Pandas and Matplotlib for visualization.
 The code performs the following tasks: data import, data exploration and analysis, handling missing values, computing age statistics, extracting salutations from names, computing fare statistics and ranges.
 converting categorical variables to numeric representations, dropping unnecessary columns, model training and evaluation using K-Nearest Neighbors (KNN) and Naive Bayes algorithms, and data visualization.
